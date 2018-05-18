@@ -49,6 +49,7 @@
   index.js 
   store.js
   ```
+> "Each component, scene or service (a feature) has everything it needs to work on its own, such as its own styles, images,                translations,   set of actions as well as unit or integration tests. You can see a feature like an independent piece of code you will    use in your app   (a bit like node modules)." - Alexis Mangin
 
 ### Features
 - Basic admin structure with Async Routes configured
