@@ -49,3 +49,11 @@
   store.js
   ```
 - [MaterialUI](https://github.com/mui-org/material-ui)
+
+### Features
+- Basic admin structure with Async Routes configured
+- Sass
+
+
+### Todo
+- [ ] State management
