@@ -1,4 +1,9 @@
 ## React Single Page Application with MaterialUI tarter-kit.
+<p align="center">
+  <img src="./Package.png">
+  <br/>
+  <span>React SPA with MaterialUI Boilerplate</span>
+</p>
 
 ``` bash
 npm install
