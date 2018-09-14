@@ -1,4 +1,4 @@
-## React Single Page Application with MaterialUI starter-kit.
+## ⚛ React Single Page Application with MaterialUI starter-kit.
 <p align="center">
   <img src="./Package.png">
   <br/>
