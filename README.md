@@ -1,5 +1,14 @@
 ## React Single Page Application with MaterialUI tarter-kit.
 
+## Getting started
+
+``` bash
+npm install
+npm start
+``````
+
+<br/>
+
 ### Using:
 - [MaterialUI](https://github.com/mui-org/material-ui)
 - Alexis Mangin's [medium post](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1) as a guide to     better structure scalable React projects folder grouped by features or routes.
@@ -53,7 +62,7 @@
 
 ### Features
 - Basic admin structure with Async Routes configured
-- Sass
+- SASS
 
 
 ### Todo
