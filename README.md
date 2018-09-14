@@ -1,7 +1,5 @@
 ## React Single Page Application with MaterialUI tarter-kit.
 
-## Getting started
-
 ``` bash
 npm install
 npm start
