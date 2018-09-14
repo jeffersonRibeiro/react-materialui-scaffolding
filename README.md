@@ -1,4 +1,4 @@
-## Personal starter-kit for react applications.
+## React Single Page Application with MaterialUI tarter-kit.
 
 ### Using:
 - [MaterialUI](https://github.com/mui-org/material-ui)
